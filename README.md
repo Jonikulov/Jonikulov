@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Machine Learning and SQL.
 - 💞️ I’m looking to collaborate on Python, Open Source.
 - 📫 How to reach me:
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Javohir_Dev)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Javohir_Dev?target=_blank)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-cf4134?style=flat-square&logo=Gmail&logoColor=white)](mailto:EMAIL_ADDRESS@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jonikulov/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jonikulov/?target=_blank)
 
 
 <!---
