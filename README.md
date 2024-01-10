@@ -1,7 +1,7 @@
-### 👋 Hi, I’m Javohir Joniqulov
-- 👀 I’m interested in Data Science, Machine Learning, Deep Learning and Computer Vision.
-- 🌱 I’m currently learning Machine Learning and SQL.
-- 🤝 I’m looking to collaborate on Python, Open Source.
+### 👋 Javohir Joniqulov:
+- 👀 Interested in Data Science, Machine Learning, Deep Learning and Computer Vision.
+- 🌱 Currently learning Machine Learning, C programming.
+- 🤝 Collaborates on Python, Data Science, Open Source.
 - 📫 How to reach me:
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Javohir_Dev)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-cf4134?style=flat-square&logo=Gmail&logoColor=white)](mailto:jonikulov.uz@gmail.com)
